@@ -5,11 +5,17 @@
 - https://github.com/djadmin/awesome-bug-bounty
 - https://github.com/Mehdi0x90/Web_Hacking
 - https://github.com/KingOfBugbounty/KingOfBugBountyTips
+- https://github.com/vitalysim/Awesome-Hacking-Resources
+- https://github.com/carpedm20/awesome-hacking
 
 ## Tools
 - https://github.com/Z4nzu/hackingtool
 - https://github.com/vavkamil/awesome-bugbounty-tools
 - https://github.com/edoardottt/awesome-hacker-search-engines
+
+## Paylods/tricks
+- https://github.com/dwisiswant0/awesome-oneliner-bugbounty
+- https://github.com/swisskyrepo/PayloadsAllTheThings
 
 ## Books
 - https://github.com/yeahhub/Hacking-Security-Ebooks
