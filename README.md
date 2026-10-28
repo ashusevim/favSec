@@ -7,6 +7,7 @@
 - https://github.com/KingOfBugbounty/KingOfBugBountyTips
 - https://github.com/vitalysim/Awesome-Hacking-Resources
 - https://github.com/carpedm20/awesome-hacking
+- https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap
 
 ## Tools
 - https://github.com/Z4nzu/hackingtool
